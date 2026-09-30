@@ -13,6 +13,19 @@
         "src/plugins/copy-code-button/styles/copy.scss",
         "src/plugins/copy-code-button/templates/copy.njk"
       ]
+    },
+    "rounded-images": {
+      "repo": "oleeskild/garden-plugin-rounded-images",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-30T13:55:51.695Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/rounded-images/README.md",
+        "src/plugins/rounded-images/garden-plugin.json",
+        "src/plugins/rounded-images/screenshot.png",
+        "src/plugins/rounded-images/templates/style.njk"
+      ]
     }
   }
 }
