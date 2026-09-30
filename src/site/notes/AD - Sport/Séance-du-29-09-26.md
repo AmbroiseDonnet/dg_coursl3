@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ad-sport/seance-du-29-09-26/","created":"2026-09-30T15:04:21.693+02:00","updated":"2026-09-30T16:00:25.911+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/AD - Sport/Séance-du-29-09-26/","created":"2026-09-30T15:04:21.693+02:00","updated":"2026-09-30T16:00:25.911+02:00","dg-note-properties":{}}
 ---
 
 # Séance sport du 29 septembre 2026
